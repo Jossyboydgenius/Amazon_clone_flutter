@@ -1,4 +1,4 @@
-# Flutterzon - Amazon Clone w/ Flutter
+# Amazon Clone - Flutterzon
 
 ![Flutterzon](https://res.cloudinary.com/dthljz11q/image/upload/v1701778309/app%20screenshots/siolcwzafbcuqch3j1sm.png)
 
@@ -141,7 +141,7 @@ Flutterzon is a purpose-driven initiative, with the primary goal of creating an 
 - Clone this repository
 
   ```bash
-  https://github.com/tejasbadone/flutterzon_bloc.git
+  https://github.com/Jossyboydgenius/Amazon_clone_flutter.git
   ```
 
 - Migrate to the root directory and install all the required dependencies by running
@@ -209,9 +209,9 @@ Additionally, be aware that any attempts to place orders within this prototype a
 
 ## Contact
 
-- Tejas Badone <br> <br>
-  <a  href="https://www.linkedin.com/in/tejasbadone/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tejas.badone25@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+- Awe Joseph <br> <br>
+  <a  href="https://www.linkedin.com/in/awejosepholaitan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:awejosepholaitan@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
   feel free to contact me!
 
